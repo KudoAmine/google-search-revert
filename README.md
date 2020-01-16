@@ -1,3 +1,9 @@
+# I added some things to the original
+- Restore link size (make it bigger)
+- Put the link a little up
+- Hide translate
+- Makes the spaces smaller between results
+
 # Description
 
 CSS to partially revert Google's mobile design that went wide on desktop 1/16/20.
