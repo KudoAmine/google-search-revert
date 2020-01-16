@@ -16,11 +16,6 @@
 	border-color: #006d21 transparent;
 }
 
-/* dropdown arrow */
-.B6fmyf {
-	top: 30px; /* hardcoded guess */
-}
-
 /* dropdown arrow position */
 .B6fmyf {
 	top: 30px; /* hardcoded guess */
@@ -51,11 +46,6 @@
 /* restore link size */
 .TbwUpd cite, a.ab_button, a.ab_button:visited {
     font-size: 16px
-}
-
-/* hide translate */
-.r a.fl {
-    display: none;
 }
 
 /* make the spaces smaller */
