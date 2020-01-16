@@ -4,6 +4,9 @@
 - Hide translate
 - Makes the spaces smaller between results
 
+Final Result: https://i.imgur.com/uzpXJNF.png
+Google New Search Layout: https://i.imgur.com/wPOCeLN.png
+
 # Description
 
 CSS to partially revert Google's mobile design that went wide on desktop 1/16/20.
