@@ -1,7 +1,6 @@
 # I added some things to the original
 - Restore link size (make it bigger)
 - Put the link a little up
-- Hide translate
 - Makes the spaces smaller between results
 
 Final Result: https://i.imgur.com/uzpXJNF.png 
