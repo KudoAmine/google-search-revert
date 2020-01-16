@@ -4,7 +4,8 @@
 - Hide translate
 - Makes the spaces smaller between results
 
-Final Result: https://i.imgur.com/uzpXJNF.png
+Final Result: https://i.imgur.com/uzpXJNF.png 
+
 Google New Search Layout: https://i.imgur.com/wPOCeLN.png
 
 # Description
