@@ -11,27 +11,6 @@
 	order: 5;
 }
 
-/* restore link color */
-.TbwUpd cite, a.ab_button, a.ab_button:visited {
-    color: #006d21
-}
-
-/* make container flex so order property works */
-.r > a {
-	display: flex;
-	flex-direction: column;
-}
-
-/* move url to bottom */
-.TbwUpd {
-	order: 5;
-}
-
-/* restore link color */
-.TbwUpd cite, a.ab_button, a.ab_button:visited {
-    color: #006d21
-}
-
 /* restore dropdown button color */
 .action-menu .mn-dwn-arw {
 	border-color: #006d21 transparent;
@@ -40,21 +19,6 @@
 /* dropdown arrow */
 .B6fmyf {
 	top: 30px; /* hardcoded guess */
-}
-
-/* hide now unnecessary br that creates empty space */
-.r > a > br {
-	display: none;
-}
-
-/* hide favicons */
-.r img.xA33Gc {
-	display: none;
-}
-
-/* hide underline on url */
-#rcnt a:hover {
-	text-decoration: none;
 }
 
 /* dropdown arrow position */
@@ -75,4 +39,31 @@
 /* hide underline on url */
 #rcnt a:hover {
 	text-decoration: none;
+}
+
+/* restore link color */
+.TbwUpd cite, a.ab_button, a.ab_button:visited {
+    color: #006d21
+}
+
+/* things I added */
+
+/* restore link size */
+.TbwUpd cite, a.ab_button, a.ab_button:visited {
+    font-size: 16px
+}
+
+/* hide translate */
+.r a.fl {
+    display: none;
+}
+
+/* make the spaces smaller */
+.g {
+    margin-bottom: 22px;
+}
+
+/* put the link a little up */
+.TbwUpd {
+    margin-top: -4px;
 }
